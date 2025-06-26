@@ -1,0 +1,4 @@
+requests
+selenium
+./core
+bs4
